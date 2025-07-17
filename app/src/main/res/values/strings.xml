@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Store Management</string>
+    <string name="welcome_message">Welcome to Store Management!</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="product_image_description">Product Image</string>
+    <string name="product_name_placeholder">Product Name</string>
+    <string name="product_price_placeholder">$0.00</string>
+    <string name="product_description_placeholder">This is a detailed description of the product. It provides information about its features, specifications, and benefits.</string>
+    <string name="next_products">Next to see others</string>
+</resources>
